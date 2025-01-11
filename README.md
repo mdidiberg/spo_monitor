@@ -1,2 +1,5 @@
-# spo_monitor
-Plethysmogramm 2,8"" TFT
+# spo_monitor 
+#### Plethysmogramm auf TFT Display 
+#### TFT 2,8'' 240 x 360 plx 
+#### Spo-Sensor MAX30100   alt.  MS2000 Board
+#### µController MEGA2560 R3
